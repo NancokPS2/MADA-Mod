@@ -1,3 +1,5 @@
+# Status: Unknown
+The mod still needs testing and fixing for current versions, the extents of the compatibilities (if any) are unknown.
 # MADA Mod
   A mod for cataclysm which adds a bat mutation category, working as of 0.E-7938
 
